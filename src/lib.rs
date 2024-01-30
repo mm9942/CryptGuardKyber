@@ -29,15 +29,15 @@ impl kyber {
         }
     }
 
-    pub fn decrypt(&self) -> Decrypt {
-        self.decrypt.as_ref()
+    pub fn decrypt(&self) -> &Decrypt {
+        &self.decrypt
     }
 
-    pub fn encrypt(&self) -> Encrypt {
-        self.encrypt.as_ref()
+    pub fn encrypt(&self) -> &Encrypt {
+        &self.encrypt
     }
-    pub fn keychain(&self) -> Keychain {
-        self.keychain.as_ref()
+    pub fn keychain(&self) -> &Keychain {
+        &self.keychain
     }
 }
 

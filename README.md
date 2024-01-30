@@ -18,7 +18,7 @@
 [cli-link]: https://github.com/mm9942/CryptGuard
 
 ## Introduction
-CryptGuard is a comprehensive cryptographic library, offering robust encryption and decryption capabilities. It integrates traditional cryptography with post-quantum algorithms, ensuring resilience against quantum computing threats. Designed for developers, CryptGuard: Kyber empowers applications to withstand future digital security challenges. Embrace CryptGuard: Kyber as your trusted ally in safeguarding privacy in the digital realm.
+CryptGuard: Kyber is a comprehensive cryptographic library, offering robust encryption and decryption capabilities. It integrates traditional cryptography with post-quantum algorithms, ensuring resilience against quantum computing threats. Designed for developers, CryptGuard: Kyber empowers applications to withstand future digital security challenges. Embrace CryptGuard: Kyber as your trusted ally in safeguarding privacy in the digital realm.
 
 ## Prerequisites
 Ensure your system has the latest stable versions of Rust, Cargo, and the Tokio runtime environment.
