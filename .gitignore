@@ -1,3 +1,4 @@
 package/
 Cargo.lock
 LICENSE.txt
+debug/ 
